@@ -6,4 +6,4 @@ light-duty slider system designed around aluminum extrusions.
     <img src=https://raw.githubusercontent.com/wiki/firepick1/FireSlide/images/FSMSCAR.jpg height=200px>
 </a>
 
-[More...](https://github.com/firepick1/FireSlide/wiki)
+[More...](https://github.com/firepick/FireSlide/wiki)
